@@ -1,7 +1,7 @@
 insert into book (book_no, publisher_no, subject_no, name, first_author, year, price) 
 values 
-    (1, 1, 4, 'Dönüşüm', 'Franz Kafka', 1925, 42.25),
-    (2, 1, 5, 'Hikayeler', 'Cahit Zarifoğlu', 1943, 40.25),
+    (1, 1, 4, 'Dönüşüm', 'Franz Kafka', 1925, 142.25),
+    (2, 1, 5, 'Hikayeler', 'Cahit Zarifoğlu', 1943, 140.25),
     (3, 1, 4, 'Dava', 'Franz Kafka', 1925, 42.25),
     (4, 1, 5, 'Küçük Prens', 'Antoine de Saint-Exupiry', 1943, 40.25),
     (5, 2, 2, 'İnsanlık Durumu', 'Andri Malraux', 1933, 40.25),
